@@ -123,6 +123,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 # Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
 - Data modeling with Apache Cassandra with Sparkify Music dataset
+- Implement cloud-based data warehouse with Spark and Amazon Web Services (AWS)
 
 - Schedule, automate and monitor data pipelines with Apache Airflow
 <br/>
