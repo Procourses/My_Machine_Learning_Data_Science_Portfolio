@@ -72,7 +72,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 - [Pytorch Image style transfer to generate artwork:pencil:](https://medium.com/@patrickhk/image-style-transfer-by-pytorch-e87396e3e5d2) 
 - [Pytorch Super resolution GAN:pencil:](https://medium.com/@patrickhk/experience-super-resolution-gan-srgan-with-pytorch-f52df6eb06b9)<br/>
 
-[Back to table of content](#My-Machine-Learning-Data-Science-Portfolio)
+[Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 # Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
