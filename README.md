@@ -128,6 +128,6 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 [[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
 [[:house_with_garden:My Website]](https://www.fiyeroleung.com/)<br/>
 [[:space_invader:	My Github]](https://github.com/fiyero)<br/>
-[[:space_invader:	My Learning Journey]](https://trello.com/b/GLGzSPFY/my-learning-journey)<br/>
+[[✅My Learning Journey]](https://trello.com/b/GLGzSPFY/my-learning-journey)<br/>
 
 Currently looking for any Machine Learning/Data Science job opportunity🐤
