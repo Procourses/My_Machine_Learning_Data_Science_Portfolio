@@ -7,7 +7,7 @@ If you are browsering in mobile version please **click "view all of README.md"**
 Free feel to contact me to get the complete version with all the in-line comments, docstrings and my study notes :mailbox_with_mail:<br/>
 I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
-Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision),[NLP](#NLP)
+Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related)
 
 # Table of content
 
@@ -58,7 +58,7 @@ My Medium article]](https://medium.com/@patrickhk/the-only-and-easy-object-detec
 - [Pytorch to build and train customized facial keypoint model for face detection](https://github.com/fiyero/pytorch_facial_keypoints) [[:pencil:
 My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-facial-keypoint-model-to-detect-face-1c9203ab85ac)
 
-### Udacity Self driving Car Engineer NanoDegree related
+# Self driving Car Engineer related
 - [Finding Lane Lines on the Road](https://github.com/fiyero/CarND_P1_Finding-Lane-Lines-on-the-Road) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-basic-car-lane-line-detection-a784be871157)
 - [Advanced Lane Finding](https://github.com/fiyero/CarND_P2_Advanced-Lane-Finding) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-advanced-lane-lines-detection-524e1be6ccff)
 - [Keras Self driving car behavioral cloning simulation](https://github.com/fiyero/Keras_Behavioralcloning) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-behavioral-cloning-stimulation-320bfd642aa3)
@@ -74,8 +74,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 - [Pytorch Image style transfer to generate artwork:pencil:](https://medium.com/@patrickhk/image-style-transfer-by-pytorch-e87396e3e5d2) 
 - [Pytorch Super resolution GAN:pencil:](https://medium.com/@patrickhk/experience-super-resolution-gan-srgan-with-pytorch-f52df6eb06b9) 
 
-
-### Data Engineering related
+# Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
 
 -------------------------------------------------------------------------------------------------------------------------------------
