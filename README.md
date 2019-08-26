@@ -19,36 +19,6 @@ Click the category jump to my projects on [Machine Learning](#General-Machine-Le
 
 - [Keras temperature forecase by GRU, bidirectional GRU and stack of GRU](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3E%20Temp%20forecast%20with%20GRU%20and%20its%20variant_git.ipynb)
 
-# NLP
-- [Apply NLTK Analysis on Harry Potter Series](https://github.com/fiyero/NLTK_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
-- [Apply Gensim Word2Vec Model on Harry Potter Series and visualize with PCA](https://github.com/fiyero/word2vec_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
-- [Apply Jieba and build word2vec model in Chinese content](https://github.com/fiyero/jieba_word2vec_wiki)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
-- [Generate word cloud to visualize data](https://github.com/fiyero/wordcloud_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
-- [Web scraping with beautifulsoup](https://github.com/fiyero/Mini_project_Beautifulsoup_jobsdb_FTDS)[[:pencil:My Medium article]](https://medium.com/@patrickhk/web-scraping-job-search-engine-with-beautifulsoup-classwork-walkthrough-80fde2a59ccc)
-- [Keras IMDB movie sentiment_analysis with Glove embedding](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3Ba%20IMBD_sentiment_with_pretrained%20Glove%20word%20embedding_git.ipynb) 
-- [Keras IMDB movie sentiment_analysis with LSTM, bidirectional LSTM..etc](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3C%20Keras%20CuDNNLSTM%20on%20IMDB%20(normal%2C%20reversed%2C%20bidirectional)_git.ipynb) 
-- [Generate new text content for Harry Potter by LSTM with temp setting, teacher forcing in vocab level](https://github.com/fiyero/HP_Generate_new_content_LSTM)[[:pencil:My Medium article]](https://medium.com/@patrickhk/generate-new-text-content-for-harry-potter-by-lstm-583066b47c2b)
-- [Build Spam detector with Sklearn Naive bayes](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Spam_classifier_bayes_git.ipynb)[[:pencil:My Medium article]](https://medium.com/@patrickhk/use-naive-bayes-to-create-a-simple-email-spam-detector-72031ec2866)
-- [Use Hidden Markov Models to build part of speech tagger](https://github.com/fiyero/HMM_part_of_speech_tag)[[:pencil:My Medium article]](https://medium.com/@patrickhk/part-of-speech-tagging-with-hidden-markov-models-hmm-4224cb72e9b9)
-
-- [Build a LDA model with Gensim to classify news into different topics](https://github.com/fiyero/LDA_gensim)[[:pencil:My Medium article]](https://medium.com/@patrickhk/build-a-lda-model-for-classification-with-gensim-80ca6343c4b9)
-
-- [Keras to build a English to French translator with various RNN model architecture](https://github.com/fiyero/Keras_translation_rnn)[[:pencil:My Medium article]](https://medium.com/@patrickhk/use-keras-to-build-a-english-to-french-translator-with-various-rnn-model-architecture-a37439005ae8)
-
-- [Pytorch to Build chatbot with seq2seq and attention :pencil:](https://chatbotslife.com/build-a-chatbot-by-seq2seq-and-attention-in-pytorch-v1-3cb296dd2a41) 
-
-
-
-
-# AI for trading
-- [NLP Analysis on 10-k financial statements to generate an alpha factor](https://github.com/fiyero/P5_NLP-Analysis-on-10-k-financial-statements)
-- [Pytorch Analyzing Stock Sentiment from Twits](https://github.com/fiyero/P6_Analyzing-Stock-Sentiment-from-Twits)
-- [Quant Momentum Trading](https://github.com/fiyero/AIND_P1_momentum_trading)
-- [Quant Breakout strategy](https://github.com/fiyero/AIND_P2_Breakout_strategy)
-- [Quant Smart Beta Portfolio and Portfolio Optimization](https://github.com/fiyero/AIND_P3_Portfolio_Optimization)
-- [Quant Multi factor Model to optimize portfolio](https://github.com/fiyero/P4-Multi-factor-Model)
-
-- [Quant Combine signals for enhanced alpha](https://github.com/fiyero/AIND_P7_enhanced-alpha)
 
 # Computer Vision 
 ### OpenCV related
@@ -84,14 +54,6 @@ My Medium article]](https://medium.com/@patrickhk/the-only-and-easy-object-detec
 - [Pytorch to build and train customized facial keypoint model for face detection](https://github.com/fiyero/pytorch_facial_keypoints) [[:pencil:
 My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-facial-keypoint-model-to-detect-face-1c9203ab85ac)
 
-# Self driving Car Engineer related
-- [Finding Lane Lines on the Road](https://github.com/fiyero/CarND_P1_Finding-Lane-Lines-on-the-Road) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-basic-car-lane-line-detection-a784be871157)
-- [Advanced Lane Finding](https://github.com/fiyero/CarND_P2_Advanced-Lane-Finding) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-advanced-lane-lines-detection-524e1be6ccff)
-- [Keras Self driving car behavioral cloning simulation](https://github.com/fiyero/Keras_Behavioralcloning) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-behavioral-cloning-stimulation-320bfd642aa3)
-
-- [Graph SLAM for landmark detection and tracking
-](https://github.com/fiyero/SLAM_a) [[:pencil:My Medium article]](https://medium.com/@patrickhk/graph-slam-for-landmark-detection-and-tracking-49f270e47c2a)
-
 ### More in Computer Vision
 - [Image segmentation with Kmean clustering](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Image_segmentation_kmean_git.ipynb)
 
@@ -102,9 +64,53 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 [End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
+# NLP
+- [Apply NLTK Analysis on Harry Potter Series](https://github.com/fiyero/NLTK_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
+- [Apply Gensim Word2Vec Model on Harry Potter Series and visualize with PCA](https://github.com/fiyero/word2vec_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
+- [Apply Jieba and build word2vec model in Chinese content](https://github.com/fiyero/jieba_word2vec_wiki)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
+- [Generate word cloud to visualize data](https://github.com/fiyero/wordcloud_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
+- [Web scraping with beautifulsoup](https://github.com/fiyero/Mini_project_Beautifulsoup_jobsdb_FTDS)[[:pencil:My Medium article]](https://medium.com/@patrickhk/web-scraping-job-search-engine-with-beautifulsoup-classwork-walkthrough-80fde2a59ccc)
+- [Keras IMDB movie sentiment_analysis with Glove embedding](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3Ba%20IMBD_sentiment_with_pretrained%20Glove%20word%20embedding_git.ipynb) 
+- [Keras IMDB movie sentiment_analysis with LSTM, bidirectional LSTM..etc](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3C%20Keras%20CuDNNLSTM%20on%20IMDB%20(normal%2C%20reversed%2C%20bidirectional)_git.ipynb) 
+- [Generate new text content for Harry Potter by LSTM with temp setting, teacher forcing in vocab level](https://github.com/fiyero/HP_Generate_new_content_LSTM)[[:pencil:My Medium article]](https://medium.com/@patrickhk/generate-new-text-content-for-harry-potter-by-lstm-583066b47c2b)
+- [Build Spam detector with Sklearn Naive bayes](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Spam_classifier_bayes_git.ipynb)[[:pencil:My Medium article]](https://medium.com/@patrickhk/use-naive-bayes-to-create-a-simple-email-spam-detector-72031ec2866)
+- [Use Hidden Markov Models to build part of speech tagger](https://github.com/fiyero/HMM_part_of_speech_tag)[[:pencil:My Medium article]](https://medium.com/@patrickhk/part-of-speech-tagging-with-hidden-markov-models-hmm-4224cb72e9b9)
+
+- [Build a LDA model with Gensim to classify news into different topics](https://github.com/fiyero/LDA_gensim)[[:pencil:My Medium article]](https://medium.com/@patrickhk/build-a-lda-model-for-classification-with-gensim-80ca6343c4b9)
+
+- [Keras to build a English to French translator with various RNN model architecture](https://github.com/fiyero/Keras_translation_rnn)[[:pencil:My Medium article]](https://medium.com/@patrickhk/use-keras-to-build-a-english-to-french-translator-with-various-rnn-model-architecture-a37439005ae8)
+
+- [Pytorch to Build chatbot with seq2seq and attention :pencil:](https://chatbotslife.com/build-a-chatbot-by-seq2seq-and-attention-in-pytorch-v1-3cb296dd2a41) <br/>
+
+[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+
+# Self driving Car Engineer related
+- [Finding Lane Lines on the Road](https://github.com/fiyero/CarND_P1_Finding-Lane-Lines-on-the-Road) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-basic-car-lane-line-detection-a784be871157)
+- [Advanced Lane Finding](https://github.com/fiyero/CarND_P2_Advanced-Lane-Finding) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-advanced-lane-lines-detection-524e1be6ccff)
+- [Keras Self driving car behavioral cloning simulation](https://github.com/fiyero/Keras_Behavioralcloning) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-behavioral-cloning-stimulation-320bfd642aa3)
+
+- [Graph SLAM for landmark detection and tracking
+](https://github.com/fiyero/SLAM_a) [[:pencil:My Medium article]](https://medium.com/@patrickhk/graph-slam-for-landmark-detection-and-tracking-49f270e47c2a)<br/>
+
+[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+
+# AI for trading
+- [NLP Analysis on 10-k financial statements to generate an alpha factor](https://github.com/fiyero/P5_NLP-Analysis-on-10-k-financial-statements)
+- [Pytorch Analyzing Stock Sentiment from Twits](https://github.com/fiyero/P6_Analyzing-Stock-Sentiment-from-Twits)
+- [Quant Momentum Trading](https://github.com/fiyero/AIND_P1_momentum_trading)
+- [Quant Breakout strategy](https://github.com/fiyero/AIND_P2_Breakout_strategy)
+- [Quant Smart Beta Portfolio and Portfolio Optimization](https://github.com/fiyero/AIND_P3_Portfolio_Optimization)
+- [Quant Multi factor Model to optimize portfolio](https://github.com/fiyero/P4-Multi-factor-Model)
+
+- [Quant Combine signals for enhanced alpha](https://github.com/fiyero/AIND_P7_enhanced-alpha)
+<br/>
+[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+
 # Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
+<br/>
 
+[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 -------------------------------------------------------------------------------------------------------------------------------------
 ### More about me
 [[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
