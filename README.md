@@ -19,7 +19,7 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 - [Keras temperature forecase by GRU, bidirectional GRU and stack of GRU](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3E%20Temp%20forecast%20with%20GRU%20and%20its%20variant_git.ipynb)
 
-[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio-:smile:)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # Computer Vision 
