@@ -19,7 +19,9 @@ Click the category jump to my projects on [Machine Learning](#General-Machine-Le
 
 - [Keras temperature forecase by GRU, bidirectional GRU and stack of GRU](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3E%20Temp%20forecast%20with%20GRU%20and%20its%20variant_git.ipynb)
 
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
+-------------------------------------------------------------------------------------------------------------------------------------
 # Computer Vision 
 ### OpenCV related
 - [OpenCV_Dlib_drunk_sleepy_alert_for_driver](https://github.com/fiyero/OpenCV_Dlib_drunk_sleepy_alert_for_driver)  [[:pencil:
@@ -64,6 +66,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 [End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
+-------------------------------------------------------------------------------------------------------------------------------------
 # NLP
 - [Apply NLTK Analysis on Harry Potter Series](https://github.com/fiyero/NLTK_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
 - [Apply Gensim Word2Vec Model on Harry Potter Series and visualize with PCA](https://github.com/fiyero/word2vec_HP)[[:pencil:My Medium article]](https://medium.com/@patrickhk/practice-ntlk-word2vec-pca-wordcloud-jieba-on-harry-potter-series-and-chinese-content-ca6f845b3293)
@@ -84,6 +87,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 [End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
+-------------------------------------------------------------------------------------------------------------------------------------
 # Self driving Car Engineer related
 - [Finding Lane Lines on the Road](https://github.com/fiyero/CarND_P1_Finding-Lane-Lines-on-the-Road) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-basic-car-lane-line-detection-a784be871157)
 - [Advanced Lane Finding](https://github.com/fiyero/CarND_P2_Advanced-Lane-Finding) [[:pencil:My Medium article]](https://medium.com/@patrickhk/self-driving-car-advanced-lane-lines-detection-524e1be6ccff)
@@ -94,6 +98,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 [End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
+-------------------------------------------------------------------------------------------------------------------------------------
 # AI for trading
 - [NLP Analysis on 10-k financial statements to generate an alpha factor](https://github.com/fiyero/P5_NLP-Analysis-on-10-k-financial-statements)
 - [Pytorch Analyzing Stock Sentiment from Twits](https://github.com/fiyero/P6_Analyzing-Stock-Sentiment-from-Twits)
@@ -106,11 +111,14 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 <br/>
 [End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 # Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
 <br/>
 
 [End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+
 -------------------------------------------------------------------------------------------------------------------------------------
 ### More about me
 [[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
