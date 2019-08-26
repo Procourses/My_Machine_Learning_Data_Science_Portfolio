@@ -12,6 +12,10 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 
 # General Machine Learning
+- PCA and K-means clustering to US Census population data
+- credit card fraud detector with linear classifier
+- Deploy Sentiment Analysis RNN Model with Amazon SageMaker and Pytorch
+- feature engineering to build plagiarism detector with Amazon SageMaker and Pytorch
 - [Keras Regression model to predict Boston Housing Price](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/11%20Boston%20Housing%20Price%20in%20regression%20model_github.ipynb)
 - [Keras Binary classification to predict if customer will leave the bank](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Binary%20classification_clean_v2.ipynb)
 - [Keras MNIST coding example](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/13%20MNIST%20coding%20example%20with%20Keras_github.ipynb)
