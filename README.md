@@ -1,6 +1,6 @@
-# My Machine Learning Data Science Portfolio
+# My Machine Learning Data Science Portfolio:smile:
 
-This README work as the table of content to connect my different mini projects:smile:<br/>
+This README work as the table of content to connect my different mini projects✈<br/>
 If you are browsering in mobile version please **click "view all of README.md"** to expand the content<br/>
 
 **:loudspeaker: In-line comments, docstrings and study notes are removed** <br/>
