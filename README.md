@@ -7,12 +7,12 @@ If you are browsering in mobile version please **click "view all of README.md"**
 Free feel to contact me to get the complete version with all the in-line comments, docstrings and my study notes :mailbox_with_mail:<br/>
 I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
-Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related)
+⚡️Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related)
 
 
 # General Machine Learning
-- [Keras regression to predict Boston Housing Price](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/11%20Boston%20Housing%20Price%20in%20regression%20model_github.ipynb)
-- [Keras Binary classification predict if customer will leave the bank](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Binary%20classification_clean_v2.ipynb)
+- [Regression model to predict Boston Housing Price with Keras](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/11%20Boston%20Housing%20Price%20in%20regression%20model_github.ipynb)
+- [Binary classification to predict if customer will leave the bank with Keras](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Binary%20classification_clean_v2.ipynb)
 - [Keras MNIST coding example](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/13%20MNIST%20coding%20example%20with%20Keras_github.ipynb)
 - [Keras IMDB Movie review classification](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/14%20IMDB%20binary%20classification%20with%20Keras_github.ipynb)
 - [Keras Reuters Multi classification](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/15%20Reuters%20multi%20classification%20with%20Keras_git.ipynb)
