@@ -122,7 +122,10 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 [:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
-### More about me
+## More about me
+[[💻My Linkedin]](https://www.linkedin.com/in/patrick0123/)<br/>
 [[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
 [[:house_with_garden:My Website]](https://www.fiyeroleung.com/)<br/>
 [[:space_invader:	My Github]](https://github.com/fiyero)<br/>
+
+Currently looking for any Machine Learning/Data Science job opportunity🐤
