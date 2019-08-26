@@ -1,4 +1,4 @@
-# My_Machine_Learning_Data_Science_Portfolio
+# My Machine Learning Data Science Portfolio
 
 This README work as the table of content to connect my different mini projects:smile:<br/>
 If you are browsering in mobile version please **click "view all of README.md"** to expand the content<br/>
@@ -8,8 +8,6 @@ Free feel to contact me to get the complete version with all the in-line comment
 I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related)
-
-# Table of content
 
 
 # General Machine Learning
@@ -72,7 +70,9 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 - [DCGAN to generate images with Pytorch](https://github.com/fiyero/DCGAN_pytorch)
 - [Pytorch to create an image captioning model with CNN and seq2seq LSTM](https://github.com/fiyero/image_captioning) [[:pencil:My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-create-an-image-captioning-model-with-cnn-and-seq2seq-lstm-cff1f3ba9583)
 - [Pytorch Image style transfer to generate artwork:pencil:](https://medium.com/@patrickhk/image-style-transfer-by-pytorch-e87396e3e5d2) 
-- [Pytorch Super resolution GAN:pencil:](https://medium.com/@patrickhk/experience-super-resolution-gan-srgan-with-pytorch-f52df6eb06b9) 
+- [Pytorch Super resolution GAN:pencil:](https://medium.com/@patrickhk/experience-super-resolution-gan-srgan-with-pytorch-f52df6eb06b9)<br/>
+
+[Back to table of content](#My-Machine-Learning-Data-Science-Portfolio)
 
 # Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
