@@ -64,7 +64,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 - [Pytorch Image style transfer to generate artwork:pencil:](https://medium.com/@patrickhk/image-style-transfer-by-pytorch-e87396e3e5d2) 
 - [Pytorch Super resolution GAN:pencil:](https://medium.com/@patrickhk/experience-super-resolution-gan-srgan-with-pytorch-f52df6eb06b9)<br/>
 
-[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # NLP
@@ -83,9 +83,10 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 - [Keras to build a English to French translator with various RNN model architecture](https://github.com/fiyero/Keras_translation_rnn)[[:pencil:My Medium article]](https://medium.com/@patrickhk/use-keras-to-build-a-english-to-french-translator-with-various-rnn-model-architecture-a37439005ae8)
 
-- [Pytorch to Build chatbot with seq2seq and attention :pencil:](https://chatbotslife.com/build-a-chatbot-by-seq2seq-and-attention-in-pytorch-v1-3cb296dd2a41) <br/>
+- [Pytorch to Build chatbot with seq2seq and attention :pencil:](https://chatbotslife.com/build-a-chatbot-by-seq2seq-and-attention-in-pytorch-v1-3cb296dd2a41)
+<br/>
 
-[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # Self driving Car Engineer related
@@ -96,7 +97,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 - [Graph SLAM for landmark detection and tracking
 ](https://github.com/fiyero/SLAM_a) [[:pencil:My Medium article]](https://medium.com/@patrickhk/graph-slam-for-landmark-detection-and-tracking-49f270e47c2a)<br/>
 
-[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # AI for trading
@@ -109,7 +110,8 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 - [Quant Combine signals for enhanced alpha](https://github.com/fiyero/AIND_P7_enhanced-alpha)
 <br/>
-[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -117,7 +119,7 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
 <br/>
 
-[End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ### More about me
