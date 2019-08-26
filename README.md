@@ -3,14 +3,25 @@
 This README work as the table of content to connect my different mini projects:smile:<br/>
 If you are browsering in mobile version please **click "view all of README.md"** to expand the content<br/>
 
-**:loudspeaker: In-line comments, docstrings and study notes are removed** because these are potential teaching material if I go tutoring in future:man_teacher:	<br/>
+**:loudspeaker: In-line comments, docstrings and study notes are removed** <br/>
 Free feel to contact me to get the complete version with all the in-line comments, docstrings and my study notes :mailbox_with_mail:<br/>
-I also write sharing articles on Medium to explain the workflow :pencil:
+I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
-[here](#Computer-Vision)
+Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision),[NLP](#NLP)
 
 # Table of content
 
+
+# General Machine Learning
+
+
+# NLP
+
+
+
+
+
+# AI for trading
 
 
 # Computer Vision 
