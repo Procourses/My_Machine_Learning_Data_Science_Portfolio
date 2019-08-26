@@ -1,7 +1,7 @@
-# My Machine Learning Data Science Portfolio:smile:
+# My Machine Learning Data Science Portfolio
 
 This README work as the table of content to connect my different mini projects✈<br/>
-If you are browsering in mobile version please **click "view all of README.md"** to expand the content<br/>
+If you are browsering in mobile version please **click "view all of README.md"** to expand the content :smile:<br/>
 
 **:loudspeaker: In-line comments, docstrings and study notes are removed** <br/>
 Free feel to contact me to get the complete version with all the in-line comments, docstrings and my study notes :mailbox_with_mail:<br/>
@@ -19,7 +19,7 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 - [Keras temperature forecase by GRU, bidirectional GRU and stack of GRU](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/L3E%20Temp%20forecast%20with%20GRU%20and%20its%20variant_git.ipynb)
 
-[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio-:smile:)
+[:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 # Computer Vision 
