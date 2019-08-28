@@ -16,7 +16,7 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 - [Build credit card fraud detector with linear classifier and modify with customized setting with AWS SageMaker](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Fraud_Detection_git.ipynb)
 - Deploy Sentiment Analysis RNN Model with Amazon SageMaker and Pytorch
-- feature engineering to build plagiarism detector with Amazon SageMaker and Pytorch
+- [Feature engineering and build plagiarism detector with Amazon SageMaker and Pytorch](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Plagiarism_detector_git.ipynb)
 - [Keras Regression model to predict Boston Housing Price](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/11%20Boston%20Housing%20Price%20in%20regression%20model_github.ipynb)
 - [Keras Binary classification to predict if customer will leave the bank](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Binary%20classification_clean_v2.ipynb)
 - [Keras MNIST coding example](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/13%20MNIST%20coding%20example%20with%20Keras_github.ipynb)
