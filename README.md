@@ -12,7 +12,8 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 
 # General Machine Learning
-- PCA and K-means clustering to US Census population data
+- [Build and deploy PCA and K-means clustering to US Census population data with AWS SageMaker](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/US_Segmentation_git.ipynb)
+
 - credit card fraud detector with linear classifier
 - Deploy Sentiment Analysis RNN Model with Amazon SageMaker and Pytorch
 - feature engineering to build plagiarism detector with Amazon SageMaker and Pytorch
