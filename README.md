@@ -14,7 +14,7 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 # General Machine Learning
 - [Build and deploy PCA and K-means clustering to US Census population data with AWS SageMaker](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/US_Segmentation_git.ipynb)
 
-- credit card fraud detector with linear classifier
+- [Build credit card fraud detector with linear classifier and modify with customized setting with AWS SageMaker](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Fraud_Detection_git.ipynb)
 - Deploy Sentiment Analysis RNN Model with Amazon SageMaker and Pytorch
 - feature engineering to build plagiarism detector with Amazon SageMaker and Pytorch
 - [Keras Regression model to predict Boston Housing Price](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/11%20Boston%20Housing%20Price%20in%20regression%20model_github.ipynb)
