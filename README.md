@@ -12,6 +12,10 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 
 # General Machine Learning
+- PCA and K-means clustering to US Census population data
+- credit card fraud detector with linear classifier
+- Deploy Sentiment Analysis RNN Model with Amazon SageMaker and Pytorch
+- feature engineering to build plagiarism detector with Amazon SageMaker and Pytorch
 - [Keras Regression model to predict Boston Housing Price](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/11%20Boston%20Housing%20Price%20in%20regression%20model_github.ipynb)
 - [Keras Binary classification to predict if customer will leave the bank](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/Binary%20classification_clean_v2.ipynb)
 - [Keras MNIST coding example](https://github.com/fiyero/My_Machine_Learning_Data_Science_Portfolio/blob/master/13%20MNIST%20coding%20example%20with%20Keras_github.ipynb)
@@ -118,6 +122,10 @@ My Medium article]](https://medium.com/@patrickhk/use-pytorch-to-train-your-own-
 
 # Data Engineering related
 - [Data modeling with postgreSQL with Sparkify Music dataset](https://github.com/fiyero/postgreSQL_p1)
+- Data modeling with Apache Cassandra with Sparkify Music dataset
+- Implement cloud-based data warehouse with Spark and Amazon Web Services (AWS)
+
+- Schedule, automate and monitor data pipelines with Apache Airflow
 <br/>
 
 [:space_invader: End of section. Back to the main page :space_invader:](#My-Machine-Learning-Data-Science-Portfolio)
