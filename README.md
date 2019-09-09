@@ -9,7 +9,8 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 ⚡️Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related), [About Me](#More-about-me)
 
-
+# Kaggle Competition
+- [Recursion Cellular Image Classification](https://github.com/fiyero/RCIC_kaggle)
 
 # General Machine Learning
 - [Build and deploy PCA and K-means clustering to US Census population data with AWS SageMaker](https://fiyero.github.io/My_Machine_Learning_Data_Science_Portfolio/US_Segmentation_git.html)
