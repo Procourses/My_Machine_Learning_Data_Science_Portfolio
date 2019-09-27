@@ -7,7 +7,7 @@ If you are browsering in mobile version please **click "view all of README.md"**
 Free feel to contact me to get the complete version with all the in-line comments, docstrings and my study notes :mailbox_with_mail:<br/>
 I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
-⚡️Click the category jump to my projects on [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related), [About Me](#More-about-me)
+⚡️Click the category jump to my projects on [Kaggle Completition](#Kaggle-Competition), [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related), [About Me](#More-about-me)
 
 # Kaggle Competition
 - [Recursion Cellular Image Classification](https://github.com/fiyero/RCIC_kaggle)
