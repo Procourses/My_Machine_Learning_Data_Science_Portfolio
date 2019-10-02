@@ -12,6 +12,8 @@ I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 # Kaggle Competition
 - [Recursion Cellular Image Classification](https://github.com/fiyero/RCIC_kaggle)
 
+- [RSNA Intracranial Hemorrhage Detection](https://github.com/fiyero/RSNA_Intracranial_Hemorrhage_Detection/blob/master/README.md)
+
 # General Machine Learning
 - [Build and deploy PCA and K-means clustering to US Census population data with AWS SageMaker](https://fiyero.github.io/My_Machine_Learning_Data_Science_Portfolio/US_Segmentation_git.html)
 
