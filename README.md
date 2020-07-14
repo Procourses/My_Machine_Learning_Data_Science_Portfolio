@@ -4,8 +4,7 @@
 This README work as the table of content to connect my different mini projects✈<br/>
 If you are browsering in mobile version please **click "view all of README.md"** to expand the content :smile:<br/>
 
-**:loudspeaker: In-line comments, docstrings and study notes are removed** <br/>
-Free feel to contact me to get the complete version with all the in-line comments, docstrings and my study notes :mailbox_with_mail:<br/>
+**:loudspeaker: In-line comments, docstrings and study notes were initially removed, will gradually add back** <br/>
 I also write sharing articles on Medium to explain the workflow :pencil:<br/>
 
 ⚡️Click the category jump to my projects on [Kaggle Completition](#Kaggle-Competition), [Machine Learning](#General-Machine-Learning), [Computer Vison](#Computer-Vision), [NLP](#NLP), [Data Engineering](#Data-Engineering-related), [AI trading](#AI-for-trading), [Self driving Car](#Self-driving-Car-Engineer-related), [About Me](#More-about-me)
